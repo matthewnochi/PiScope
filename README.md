@@ -29,6 +29,3 @@ Raspberry Pi 4 – Handles facial recognition and system processing.
 ### **Project Manager & Software Engineer: Embedded Systems**  - Jerick Ilano
 ### **Software Engineer: Machine Learning** - Matthew Nochi
 ### **Software Engineer: Full-Stack** - Rohan Date
-
-This repo contains the python code that runs on the raspberry pi
-STM code repo: https://github.com/braylam/SentriLock_STM
